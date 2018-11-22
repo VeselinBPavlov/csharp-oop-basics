@@ -8,8 +8,8 @@
 05. Interfaces and Abstraction
 06. Polymorphism
 
-## Status:
-Uncompleted
+## Status: 
+Completed
 
-## Certificate:
-none
+## Certificate: 
+<img src="certificate.jpeg"/>
